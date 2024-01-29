@@ -1,6 +1,6 @@
 package bai10;
 
-public class MyListTest {
+public class Main {
     public static void main(String[] args) {
         List<Integer>myList=new List<>();
         myList.add(1);
